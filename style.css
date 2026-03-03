@@ -136,7 +136,7 @@ input[type=checkbox]:checked + label:before {
 
 /*======= RECIPE DETAILES======*/
 
-.recipe-detailes img{
+.recipe-details img{
     width:100%;
 }
 
@@ -176,6 +176,7 @@ input[type=checkbox]:checked + label:before {
 .recipe-details-steps ol {
     padding-left:28px;
 }
+
 
 
 
